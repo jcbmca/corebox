@@ -30,6 +30,11 @@
 * qt5-x11extras
 * qt5-webengine
 
+* sudo apt-get install -y liblzma-dev
+* sudo apt-get install libbz2-1.0 libbz2-dev
+* sudo apt-get install libarchive-dev
+
+
 ## Tested In
 * Manjaro xfce (Arch).
 * Ubuntu 18.04 LTS.

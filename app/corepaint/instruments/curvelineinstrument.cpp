@@ -14,7 +14,11 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program; if not, see {http://www.gnu.org/licenses/}. */
 
+
+#include <QPainterPath>
+
 #include "curvelineinstrument.h"
+
 
 
 CurveLineInstrument::CurveLineInstrument(QObject *parent):AbstractInstrument(parent)
